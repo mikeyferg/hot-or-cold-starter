@@ -34,6 +34,7 @@ $(document).ready(function(){
   		/* clear guess counter */
   		$('#count').text(0);
   		$('#guessList').empty();
+  		$('#feedback').text('Make your Guess!');
 
   	});
 
